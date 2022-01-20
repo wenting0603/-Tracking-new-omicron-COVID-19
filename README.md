@@ -16,6 +16,10 @@ variant - 病毒種類
 
 num_sequences - 罹患ormicron的個案數量
 
-perc_sequences -  罹患ormicron佔觀測到的covid-19病毒種的比例
+perc_sequences -  罹患ormicron佔觀測到的covid-19病毒種的比例(%)
 
 numsequencestotal - 所有個案的數量
+
+## 預期內容
+1.map:劃出各時期不同國家 不同 病種的 動態圖
+2.
