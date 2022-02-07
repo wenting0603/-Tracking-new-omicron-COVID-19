@@ -20,6 +20,10 @@ perc_sequences -  罹患ormicron佔觀測到的covid-19病毒種的比例(%)
 
 numsequencestotal - 所有個案的數量
 
-## 預期內容
-1.map:劃出各時期不同國家 不同 病種的 動態圖
-2.
+![image](https://user-images.githubusercontent.com/64676970/152749668-5cb44c1d-e2c8-48bb-9831-e2bc25e3e666.png)
+
+
+## map:
+各時期不同國家 不同病種的 動態圖
+
+![Covid_19](https://user-images.githubusercontent.com/64676970/152749511-a1295304-f4ef-4570-b4c3-b63229fe2cc9.gif)
