@@ -26,4 +26,5 @@ numsequencestotal - 所有個案的數量
 ## map:
 各時期不同國家 不同病種的 動態圖
 
-![Covid_19](https://user-images.githubusercontent.com/64676970/152749511-a1295304-f4ef-4570-b4c3-b63229fe2cc9.gif)
+
+![Covid_19-](https://user-images.githubusercontent.com/64676970/152750228-8a729b97-4a45-4790-91d0-1ee5ec5a3f7f.gif)
